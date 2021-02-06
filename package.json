@@ -1,0 +1,23 @@
+{
+  "name": "nms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "node-media-server": "^2.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "run": "npm i && node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saswatsaubhagya/nms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saswatsaubhagya/nms/issues"
+  },
+  "homepage": "https://github.com/saswatsaubhagya/nms#readme"
+}
